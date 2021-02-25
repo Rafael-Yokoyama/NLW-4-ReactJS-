@@ -6,6 +6,7 @@ export function Profile() {
       <img src="https://github.com/Rafael-Yokoyama.png" alt="Rafael Yokoyama" />
 
       <div>
+        
         <strong>Rafael Yokoyama</strong>
 
         <p>
